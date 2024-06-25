@@ -9,7 +9,7 @@ const db = require('./db');
 const app = express();
 
 // Connect to MongoDB
-mongoose.connect('mongodb+srv://trydatabase69:WhRSZ928dSnvE1NW@cluster0.xqw036f.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0', {
+mongoose.connect('mongodb+srv://wbest5991:BuXQEithRk1oSOrW@cluster0.vnkbvtr.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0', {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 });
